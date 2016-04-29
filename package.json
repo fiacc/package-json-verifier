@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "license": "NO LIC",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": ""
+}
